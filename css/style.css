@@ -54,11 +54,13 @@ h6{
 .t_decor_overline{
     text-decoration: overline;
 }
-.t_decor_underline{
-    text-decoration: underline.overline;
+.t_decor_all{
+    text-decoration: underline overline line-through;
 }
-.t-indent{
-    text-indent: 140px;
+.text_indent{
+    text-indent: 300px;
+    color: green;
+    
 }
 
 
