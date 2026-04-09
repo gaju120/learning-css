@@ -62,5 +62,32 @@ h6{
     color: green;
     
 }
+.t_letter_space{
+    letter-spacing: 5px;
+}
+.t_word_space{
+    word-spacing: 40px;
+}
+.t_para_line_hight{
+    line-height: 70px;
+}
+.t_shadow{
+    color: darkblue;
+    text-shadow: 1px 3px 2px chocolate;
+    font-size: 50px;
+}
+.t_shadow2{
+    color: darkmagenta;
+    text-shadow: 1px 3px 2px rgb(70, 37, 3);
+    font-size: 60px;
+}
+.img_b_shadow{
+ box-shadow: 8px 6px 6px crimson;
+ 
+}
+.img_d_shadow{
+    filter: drop-shadow(5px 6px 7px red)
+    
+}
 
 
